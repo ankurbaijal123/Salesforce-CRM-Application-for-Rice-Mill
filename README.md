@@ -7,6 +7,8 @@ routine tasks and providing actionable insights, the CRM application aims to boo
 
 ![image](https://github.com/user-attachments/assets/c77cd43e-8f2f-46bd-987e-665f10cb36fb)
 ![image](https://github.com/user-attachments/assets/7f020394-385f-4e78-b099-3e473d33c5eb)
+![image](https://github.com/user-attachments/assets/196dde28-e2c0-4f0e-babc-b46582ff9dbb)
+![image](https://github.com/user-attachments/assets/5ad538ea-cc54-487b-94b6-229b8763bcb1)
 
 
 I have also added the documentation for this CRM Application in github
