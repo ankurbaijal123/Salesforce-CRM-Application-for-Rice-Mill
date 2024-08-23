@@ -5,6 +5,8 @@ order tracking, billing, and real-time inventory updates, enabling wholesalers t
 The application also includes analytical tools for forecasting sales trends, optimizing supply chains, and improving customer satisfaction. By automating 
 routine tasks and providing actionable insights, the CRM application aims to boost productivity, reduce operational costs, and foster stronger relationships with customers.
 
+Video Demonstration- https://drive.google.com/file/d/1SC3NlYsDbtdvecOmJOp8TN0doCL3MSsX/view?usp=drive_link
+
 ![image](https://github.com/user-attachments/assets/c77cd43e-8f2f-46bd-987e-665f10cb36fb)
 ![image](https://github.com/user-attachments/assets/7f020394-385f-4e78-b099-3e473d33c5eb)
 ![image](https://github.com/user-attachments/assets/196dde28-e2c0-4f0e-babc-b46582ff9dbb)
